@@ -75,4 +75,12 @@ Start the React development server:
 
     Simple and responsive UI for easy navigation
 
+
+    NOTE: 
+    Here is the whole folder in ZIP format.
+    You can download it in this google drive link.
+
+    [Download ZIP File]
+    (https://drive.google.com/drive/folders/1V960M-_ipWwurm7I1Fx755Ff0Nw3SXXl?usp=drive_link)
+
     Brix 2025
